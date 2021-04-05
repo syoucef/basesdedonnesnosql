@@ -11,4 +11,6 @@ Dans cette partie, l'objectif est de vous introduire CouchDB. Un système de ges
 # Interrogation d'une bases CouchDB
 
 
-# Exercice n°1
+# Exercice (client couchDB)
+Le travail demander dans cet exercice sera noté et doit être déposé sur 
+
