@@ -1,11 +1,11 @@
-# Interrogations des bases de données NoSQl CouchDB, MongoDB et Casandra
+# Système de gestion de bases de données Casandra
 
-Cette partie traite des langages d'interrogation des bases de données NoSQL CouchDB, MongoDB et Casandra
-
-## CoucheDB
+Comme pour les deux bases de données CiuchDB et MongoDB, l'objectif dans ce qui suit est de vous introduire Casandra. Pour répondre aux problamétiques de stockage et de gestion de très gros volumes de données, un groupe d'ingénieur de fac
 
 
-## MongoDB
+# Installation 
 
+## Le serveur 
 
-## Casandra
+## Le client
+
