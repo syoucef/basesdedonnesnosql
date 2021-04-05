@@ -17,7 +17,7 @@ Casadra peut être utilisé dans un système virtualisé de manière très simpl
 ``docker run --name cmcassandra -p 8686:9042  -d cassandra:latest``. Le port d'écoute par défaut de Casandra 9042 est donc renvoyé vers le port 8686 du système hôte.  Vous pouvez à présent vous connecter à Casandra et commencer à l'utiliser.  Pour cela, on aura besoin d'un client, à l'image de phpMyAdmin qui est une application web  (client graphique) pour les systèmes de gestion de base de données MySQL et MariaDB, écrite principalement en PHP et distribuée sous licence GNU GPL.  
  
  ### Installation des binaires du serveur Casandra
- La deuxième façon consiste à télécharger les binaires que vous pouvez trouvé à l'adresse suivante http://www.google.fr . 
+ La deuxième façon consiste à télécharger les binaires que vous pouvez trouvé à l'adresse suivante http://www.google.fr. 
  
  ``Pour ce qui souhaitent, et c'est ce que je vous conseille dans un premier temps, utiliser la même vesrion que moi, vous pouvez à la télécharger à l'adresse suivante``  http://www.google.fr 
 
