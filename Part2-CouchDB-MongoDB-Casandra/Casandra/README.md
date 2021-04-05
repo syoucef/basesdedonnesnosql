@@ -28,7 +28,11 @@ Casadra peut être utilisé dans un système virtualisé de manière très simpl
 Il existe plusieurs clients Casadra, au moment où je rédige ce cours, il me semble que le plus complet est le Datastax DevCenter. C'est ce client que j'utilise. Je vous invite à tester d'autres clients si vous le souhaitez. Vous pouvez télécharger la derbière version, en utilisant ce lien https://downloads.datastax.com/#devcenter. Sinon, je mets à votre disposition les binaires que j'utilise à l'adresse suivante http://www.google.fr.   
 
 
-La figure suivante vous montre l'interface graphique de Datastax, avec ses différentes fenêtres pour explorer le shéma d'une base, de l'interroger, en utilisant le langage CQL, que je vais vous présenter ultériurement. 
+La figure suivante vous montre l'interface graphique de Datastax, avec ses différentes fenêtres pour explorer le shéma d'une base, de l'interroger, en utilisant le langage CQL, que je vais vous présenter ultérieurement. 
+
+<center>
+<img src="images/datastax.png" alt="drawing" style="width:800px;"/>
+</center>
 
 
 
