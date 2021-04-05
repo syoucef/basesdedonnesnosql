@@ -37,6 +37,10 @@ La figure suivante vous montre l'interface graphique de Datastax, avec ses diff�
 
 
 
+####  Utilisation de cqlsh
+
+ pip install cqlsh``
+
 ## La langage de requête CQL (Cassandra Query Language) de Casandra 
 
 Pour plus d'information sur CQL, je vous encourage à consulter sa documentation officielle que vous pouvez trouver à l'adresse suivante https://cassandra.apache.org/doc/latest/cql/. 
