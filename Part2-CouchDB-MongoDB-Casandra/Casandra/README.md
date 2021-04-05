@@ -5,6 +5,8 @@ Comme pour les deux systèmes NoSQL CouchDB et MongoDB, l'objectif dans ce qui s
 
 # Installation 
 
+Le plus simple pour installer Casadra est d'utiliser Docker. Je vais donc commencer par vous montrer  
+
 ## Le serveur 
 
 ## Le client
