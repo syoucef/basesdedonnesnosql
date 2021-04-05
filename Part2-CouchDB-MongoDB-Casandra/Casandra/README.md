@@ -31,7 +31,7 @@ Il existe plusieurs clients Casadra, au moment où je rédige ce cours, il me se
 La figure suivante vous montre l'interface graphique de Datastax, avec ses différentes fenêtres pour explorer le shéma d'une base, de l'interroger, en utilisant le langage CQL, que je vais vous présenter ultérieurement. 
 
 <center>
-<img src="images/datastax.png" alt="drawing" style="width; 100px;"/>
+<img src="images/datastax.png" alt="drawing" WIDTH=194 HEIGHT=90"/>
 </center>
 
 
