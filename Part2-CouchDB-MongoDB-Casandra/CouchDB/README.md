@@ -1,6 +1,6 @@
-# Interrogations des bases de données NoSQL CouchDB, MongoDB et Casandra
+# Système de gestion de bases de données NoSQL CouchDB
 
-Cette partie traite des langages d'interrogation des bases de données NoSQL CouchDB, MongoDB et Casandra
+Dans cette partie, l'objectif est de vous introduire CouchDB. Un système de gestion de bases de données facile à aprréhender, surtout pour les étudiants qui ont déjà suivi mon cours sur l'API Rest. CouchDB est en effet une API Rest :)
 
 ## CoucheDB
 
