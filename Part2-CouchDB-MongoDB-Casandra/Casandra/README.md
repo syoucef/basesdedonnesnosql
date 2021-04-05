@@ -19,11 +19,18 @@ Casadra peut être utilisé dans un système virtualisé de manière très simpl
  ### Installation des binaires du serveur Casandra
  La deuxième façon consiste à télécharger les binaires que vous pouvez trouvé à l'adresse suivante http://www.google.fr. 
  
- ``Pour ce qui souhaitent, et c'est ce que je vous conseille dans un premier temps, utiliser la même vesrion que moi, vous pouvez à la télécharger à l'adresse suivante``  http://www.google.fr 
+ ``Pour ce qui souhaitent, et c'est ce que je vous conseille dans un premier temps, utiliser la même vesrion que moi, vous pouvez à la télécharger à l'adresse suivante``  http://www.google.fr. 
+ 
+ Une fois le dossier décompressé, il suffit de lancer suivant votre système d'exploitation casandra.sh pour Linux et Mac et casandra.bat pour windows. Le port d'écoute par défaut de Casandra est 9042. 
 
 ## Installation d'un client pour Casandra
 
 Il existe plusieurs clients Casadra, au moment où je rédige ce cours, il me semble que le plus complet est le Datastax DevCenter. C'est ce client que j'utilise. Je vous invite à tester d'autres clients si vous le souhaitez. Vous pouvez télécharger la derbière version, en utilisant ce lien https://downloads.datastax.com/#devcenter. Sinon, je mets à votre disposition les binaires que j'utilise à l'adresse suivante http://www.google.fr.   
+
+
+La figure suivante vous montre l'interface graphique de Datastax, avec ses différentes fenêtres pour explorer le shéma d'une base, de l'interroger, en utilisant le langage CQL, que je vais vous présenter ultériurement. 
+
+
 
 
 ## La langage de requête CQL (Cassandra Query Language) de Casandra 
