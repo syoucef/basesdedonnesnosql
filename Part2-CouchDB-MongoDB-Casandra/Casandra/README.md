@@ -21,7 +21,7 @@ Casadra peut être utilisé dans un système virtualisé de manière très simpl
  
  ``Pour ce qui souhaitent, et c'est ce que je vous conseille dans un premier temps, utiliser la même vesrion que moi, vous pouvez à la télécharger à l'adresse suivante``  http://www.google.fr. 
  
- Une fois le dossier décompressé, il suffit de lancer suivant votre système d'exploitation casandra.sh pour Linux et Mac et casandra.bat pour windows. Le port d'écoute par défaut de Casandra est 9042. 
+ Une fois le dossier décompressé, il suffit de lancer suivant votre système d'exploitation casandra.sh pour Linux et Mac et casandra.bat pour windows. Le port d'écoute par défaut de Casandra est 9042. Pour arrêtre Casandra, il vous suffira d'appuyer simultanément sur ``ctrl+c``. 
 
 ## Installation d'un client pour Casandra
 
@@ -31,11 +31,15 @@ Il existe plusieurs clients Casadra, au moment où je rédige ce cours, il me se
 La figure suivante vous montre l'interface graphique de Datastax, avec ses différentes fenêtres pour explorer le shéma d'une base, de l'interroger, en utilisant le langage CQL, que je vais vous présenter ultérieurement. 
 
 <center>
-<img src="images/datastax.png" alt="drawing" style="width:800px;"/>
+<img src="images/datastax.png" alt="drawing" WIDTH=600 HEIGHT=400"/>
 </center>
 
 
 
+
+####  Utilisation de cqlsh
+
+ pip install cqlsh``
 
 ## La langage de requête CQL (Cassandra Query Language) de Casandra 
 
