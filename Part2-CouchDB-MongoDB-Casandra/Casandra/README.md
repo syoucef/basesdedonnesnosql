@@ -19,7 +19,7 @@ Casadra peut être utilisé dans un système virtualisé de manière très simpl
  ### Installation des binaires du serveur Casandra
  La deuxième façon consiste à télécharger les binaires que vous pouvez trouvé à l'adresse suivante http://www.google.fr . 
  
- ``Pour ce qui souhaitent, et c'est ce que je vous conseille dans un premier temps, utiliser la même vesrion que moi, vous pouvez à la télécharger à l'adresse suivante http://www.google.fr``
+ ``Pour ce qui souhaitent, et c'est ce que je vous conseille dans un premier temps, utiliser la même vesrion que moi, vous pouvez à la télécharger à l'adresse suivante``  http://www.google.fr 
 
 ## Installation d'un client pour Casandra
 
