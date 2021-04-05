@@ -11,6 +11,7 @@ Je vais commencer dans la section suivante par vous montrer comment l'installer 
 # Installation 
 
 ### Installation via Docker
+Casadra peut être utilisé dans un système virtualisé de manière très simple (si on n'est pas bien avancé sur la partie ``conteneurisation``, je vous invite à passer directement à la section suivante).  Vous pouvez soit utiliser l'interface graphique ``Kitematic`` ou la ligne de commande suivante : 
 
 ## Le serveur 
 
