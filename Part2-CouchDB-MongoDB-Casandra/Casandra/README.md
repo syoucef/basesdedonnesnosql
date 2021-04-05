@@ -13,6 +13,11 @@ Je vais commencer dans la section suivante par vous montrer comment l'installer 
 ### Installation via Docker
 Casadra peut être utilisé dans un système virtualisé de manière très simple (si on n'est pas bien avancé sur la partie ``conteneurisation``, je vous invite à passer directement à la section suivante).  Vous pouvez soit utiliser l'interface graphique ``Kitematic`` ou la ligne de commande suivante : 
 
+``docker run --name cmcassandra -p 8686:9042  -d cassandra:latest``. Le port d'écoute par défaut de Casandra 9042 est donc renvoyé vers le port 8686 du système hôte.  Vous pouvez à présent vous connecter à Casandra et commencer à l'utiliser. 
+
+
+ 
+
 ## Le serveur 
 
 ## Le client
