@@ -37,8 +37,13 @@ La figure suivante vous montre l'interface graphique de Datastax, avec ses diff�
 
 
 # Les modèles de données
-Au début Casandra était un système de gestion de bases de données permissif. Autrement dit, on peut insérer des données qui n'ont rien avoir les unes des autres (à l'image de CouchDB et MongoDB). Par la suit, il s'est orinté vers un modèle dit relationnel étendu, avec un typage fort et un shéma.  
+Au début Casandra était un système de gestion de bases de données permissif. Autrement dit, on peut insérer des données qui n'ont rien avoir les unes des autres (à l'image de CouchDB et MongoDB). Par la suit, il s'est orinté vers un modèle dit relationnel étendu, avec un typage fort et un shéma.  ET c'est là justement la différence principale par rapport à tous (à ma connaisance .... si ce n'est le cas, n'hésitez pas à me l'apprendre SVP) les systèmes de gestion de bases de données NoSQL. Une base de données Casandra est constitué, comme pour un modèle relationnel, de tables. Chaque table est constituée d'un ensemble de colonnes
 
+## Paires clé/valeur (columns) et documents (rows)
+
+## Les tables (column families)
+
+## Les bases (Keyspaces)
 
 ####  Utilisation de cqlsh
 
