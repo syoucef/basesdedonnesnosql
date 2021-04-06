@@ -16,8 +16,8 @@ Pour savoir si un document JSON est est correct, vous pouvez utiliser ce lien ht
 
 # Théorème de CAP 
 
-1. Consistency (Cohérence)
-2. Availability (Disponibilité)
+1. Consistency (Cohérence) : une donnée sauvegardé dans une base de données ne peut avoir plus d'un état visible quelque soit le nombre de replicas. 
+2. Availability (Disponibilité) : une donnée est disponible 
 3. Partition Tolerance (Distribution)
 
 
