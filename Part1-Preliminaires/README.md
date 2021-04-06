@@ -20,6 +20,8 @@ Pour savoir si un document JSON est est correct, vous pouvez utiliser ce lien ht
 2. Availability (Disponibilité)
 3. Partition Tolerance (Distribution)
 
+
+``Le théorème de CAP stipule que l'on ne peut pas respecter plus de deux propriètés parmi la cohérence, la disponibilité et la distribution.``
 # Organisation de la suite de ce cours
 La suite de ce cours est organisé comme suit.  Elle est décomposée en 9 parties. 
 
