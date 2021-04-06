@@ -10,6 +10,8 @@ De plus en plus le besoin de sauvegarder de très gros volumes de données se fa
 
 # Bref introduction à JSON
 
+Pour savoir si un document JSON est est correct, vous pouvez utiliser ce lien http://jsonlint.com/. 
+
 
 
 # Organisation de la suite de ce cours
