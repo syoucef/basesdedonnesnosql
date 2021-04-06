@@ -5,10 +5,10 @@ De plus en plus le besoin de sauvegarder de très gros volumes de données se fa
 
 # Qu'est ce que le passage à l'échelle ? 
 
-# Bref introduction à XML 
+# Brève introduction à XML 
 
 
-# Bref introduction à JSON
+# Brève introduction à JSON
 
 Pour savoir si un document JSON est est correct, vous pouvez utiliser ce lien http://jsonlint.com/. 
 
