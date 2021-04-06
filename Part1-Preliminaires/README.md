@@ -14,6 +14,12 @@ Pour savoir si un document JSON est est correct, vous pouvez utiliser ce lien ht
 
 
 
+# Théorème de CAP 
+
+1. Consistency (Cohérence)
+2. Availability (Disponibilité)
+3. Partition Tolerance (Distribution)
+
 # Organisation de la suite de ce cours
 La suite de ce cours est organisé comme suit.  Elle est décomposée en 9 parties. 
 
