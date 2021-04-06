@@ -13,4 +13,7 @@ De plus en plus le besoin de sauvegarder de très gros volumes de données se fa
 
 
 # Organisation de la suite de ce cours
-La suite de ce cours est organisé comme suit.  Elle est décomposée en parties
+La suite de ce cours est organisé comme suit.  Elle est décomposée en 9 parties. 
+
+1. la partie 1 est consacrée la pérsentation de trois types de bases de données NoSQL (CouchDB, MongoDB et Casandra). 
+2. la partie 2 présente  
