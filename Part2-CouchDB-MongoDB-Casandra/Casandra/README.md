@@ -36,6 +36,9 @@ La figure suivante vous montre l'interface graphique de Datastax, avec ses diff�
 
 
 
+# Les modèles de données
+Au début Casandra était un système de gestion de bases de données permissif. Autrement dit, on peut insérer des données qui n'ont rien avoir les unes des autres (à l'image de CouchDB et MongoDB). Par la suit, il s'est orinté vers un modèle dit relationnel étendu, avec un typage fort et un shéma.  
+
 
 ####  Utilisation de cqlsh
 
