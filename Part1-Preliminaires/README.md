@@ -23,7 +23,12 @@ Pour savoir si un document JSON est est correct, vous pouvez utiliser ce lien ht
 
 ``Le théorème de CAP stipule que l'on ne peut pas respecter plus de deux propriètés parmi la cohérence, la disponibilité et la distribution.``
 
-Il est évident qu'un système de gestion de base de données gère la cohérence et la disponibilité mais par la distribution. 
+Il est évident qu'un système de gestion de base de données relationnel gère la cohérence et la disponibilité mais par la distribution. En effet, étudions les trois cominaisons possibles de ces caractéristiques : 
+
+- CA (Consistency & Availability)
+- B
+- C
+
 
 # Classement des systèmes de gestion de bases de données grâce au triangle de CAP
 
