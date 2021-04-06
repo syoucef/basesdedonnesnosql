@@ -1,4 +1,4 @@
-``Bonjour et bienvenue dans la partie 1 du cours Big Data. L'objectif de cette partie est de vous présenter les bases de données NoSQL (Not only SQL). Je vais commencre par quelques définitions et l'introductiosn d'un ensemble de vocabulaires. A la fin de cette première partie, vous serez capable d'installer et d'utiliser quelques systèmes de gestion de bases de données NoSQL, de mettre en place une architecture distribuées tolérante aux pannes``. 
+``Bonjour et bienvenue dans la partie 1 du cours Big Data. L'objectif de cette partie est de vous présenter les bases de données NoSQL (Not only SQL). Je vais commencer par quelques définitions et l'introductiosn d'un ensemble de vocabulaires. A la fin de cette première partie, vous serez capable d'installer et d'utiliser quelques systèmes de gestion de bases de données NoSQL, de mettre en place une architecture distribuées tolérante aux pannes``. 
 
 # Introduction générale 
 
