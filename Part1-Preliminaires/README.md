@@ -1,6 +1,6 @@
 Bonjour et bienvenue dans la partie 1 du cours Big Data. L'objectif de cette partie est de vous présenter les bases de données NoSQL (Not only SQL). Je vais commencer par quelques définitions et l'introductiosn d'un ensemble de vocabulaires. A la fin de cette première partie, vous serez capable d'installer et d'utiliser quelques systèmes de gestion de bases de données NoSQL, de mettre en place une architecture distribuées tolérante aux pannes. 
 
-# Introduction générale 
+# Introduction générale  
 
 
 De plus en plus le besoin de sauvegarder de très gros volumes de données se fait ressentir au sein des entreprises (même les plus petites). Les systèmes de gestion de bases données relationnelles ont certainement permis de sauvegerader et de gérer de manière efficace des données mais de quantité limitée. Les systèmes qui gèrent ce type de donnée ne passent pas l'échelle. 
